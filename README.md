@@ -9,6 +9,7 @@ The scoring system works according to the following rules:
 - The scores from zero to three points are described as **Love**, **Fifteen**, **Thirty**, and **Forty**
 - **Deuce**: Each player has at least three points, and the scores are equal
 - **Advantage**: Each player has at least three points and one player has one more point than the opponent  
+
 (For a detailed description see [SammanCoaching.org](https://sammancoaching.org/kata_descriptions/tennis.html))
 
 ### Project structure:
